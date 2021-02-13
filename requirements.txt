@@ -1,0 +1,7 @@
+flask~=1.1.2
+
+attackcti~=0.3.4.3
+
+stix2~=2.1.0
+
+python-arango
